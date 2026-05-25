@@ -5,7 +5,7 @@
 Project Objective:
 Analyze retail sales data using SQL to uncover insights
 related to customer behavior, product performance,
-sales trends, revenue generation, and employee performance.
+sales trends, revenue generation and employee performance.
 
 Tools Used:
 - SQL
@@ -225,16 +225,16 @@ WHERE rnk = 1;                         -- Among all Employees, Yael Peled has ha
 
 1. Increase focus on high-performing categories such as
    Beverages through improved inventory management,
-   promotions, and distribution strategies.
+   promotions and distribution strategies.
 
 2. Implement customer retention strategies such as
    loyalty programs and personalized offers to retain
    high-value customers.
 
 3. Review low-performing products to identify whether
-   pricing, marketing, or demand issues are affecting sales.
+   pricing, marketing or demand issues are affecting sales.
 
-4. Continue and strengthen current sales strategies,
+4. Continue and strengthen current sales strategies
    as revenue trends indicate steady business growth.
 
 5. Provide performance-based training and incentives
