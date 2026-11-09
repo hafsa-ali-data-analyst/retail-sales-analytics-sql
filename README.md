@@ -1,13 +1,13 @@
-# 🛒 Retail Sales Analytics Using SQL
+# Retail Sales Analytics Using SQL
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes a retail sales database using SQL to extract actionable business insights related to customer behavior, product performance, revenue trends and employee efficiency.
 
 The dataset contains multiple relational tables including customers, orders, order details, products, categories and employees. Advanced SQL techniques such as joins, aggregations and window functions were used to analyze end-to-end business performance.
 
 ---
 
-## 🎯 Business Objectives
+## Business Objectives
 - Analyze customer purchasing behavior and revenue contribution  
 - Identify top-performing product categories and products  
 - Evaluate sales trends and total revenue performance  
@@ -16,7 +16,7 @@ The dataset contains multiple relational tables including customers, orders, ord
 
 ---
 
-## 🗂️ Dataset Structure
+## Dataset Structure
 The database includes the following tables:
 - Customers  
 - Orders (Sales Orders)  
@@ -29,47 +29,47 @@ All tables were connected using SQL joins for relational analysis.
 
 ---
 
-## 📊 Key Metrics
-- 💰 **Total Revenue:** 1.27M+  
-- 📦 **Total Orders:** 830  
-- 📉 **Average Unit Price:** 28.87  
-- 👨‍💼 **Top Employee:** Yael Peled (156 orders handled)  
+## Key Metrics
+- **Total Revenue:** 1.27M+  
+- **Total Orders:** 830  
+- **Average Unit Price:** 28.87  
+- **Top Employee:** Yael Peled (156 orders handled)  
 
 ---
 
-## 🧠 SQL Analysis Performed
+## SQL Analysis Performed
 
-### 👤 Customer Analysis
+### Customer Analysis
 - Identified high-value customers based on revenue contribution  
 - Analyzed customer order patterns and purchase behavior  
 
-### 📦 Product & Category Analysis
+### Product & Category Analysis
 - Evaluated category-wise revenue performance  
 - Identified top-performing product categories (Beverages highest revenue)  
 - Ranked products using SQL window functions  
 
-### 📊 Sales & Revenue Analysis
+### Sales & Revenue Analysis
 - Calculated total revenue using discount-adjusted pricing  
 - Analyzed order-level performance and sales trends  
 - Generated running total revenue using window functions  
 
-### 👨‍💼 Employee Performance Analysis
+### Employee Performance Analysis
 - Compared employee performance based on total orders handled  
 - Ranked employees using window functions  
 - Identified **Yael Peled as top performer with 156 orders**
 
 ---
 
-## 📈 Key Insights
-- 🥇 Beverages emerged as the highest revenue-generating category  
-- 💰 A small group of customers contributed significantly to total revenue  
-- 📈 Revenue showed a consistent upward trend over time  
-- 👨‍💼 Employee performance varied across the organization  
-- 📊 Sales distribution highlights strong category-wise variation in demand  
+## Key Insights
+- Beverages emerged as the highest revenue-generating category  
+- A small group of customers contributed significantly to total revenue  
+- Revenue showed a consistent upward trend over time  
+- Employee performance varied across the organization  
+- Sales distribution highlights strong category-wise variation in demand  
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 - Focus on high-performing categories like Beverages to maximize revenue  
 - Strengthen customer retention strategies for high-value customers  
 - Optimize inventory planning based on category performance  
@@ -78,7 +78,7 @@ All tables were connected using SQL joins for relational analysis.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 - SQL  
 - MySQL Workbench  
 - Joins (Inner Joins across multiple tables)  
@@ -88,7 +88,7 @@ All tables were connected using SQL joins for relational analysis.
 
 ---
 
-## 🚀 SQL Skills Demonstrated
+## SQL Skills Demonstrated
 - Relational database querying using joins  
 - Business KPI calculation using SQL  
 - Revenue analysis using conditional logic  
@@ -98,16 +98,16 @@ All tables were connected using SQL joins for relational analysis.
 
 ---
 
-# 📁 Repository Structure
+# Repository Structure
 
-📦 Retail_Sales_Data_Analysis  
- ┣ 📂 dataset  
- ┣ 📂 screenshots  
- ┣ 📂 outputs  
- ┣ 📜 retail_sales_analysis.sql  
- ┗ 📜 README.md
+Retail_Sales_Data_Analysis  
+ ┣ dataset  
+ ┣ screenshots  
+ ┣ outputs  
+ ┣ retail_sales_analysis.sql  
+ ┗ README.md
  
 ---
 
-## 📌 Outcome
+## Outcome
 This project demonstrates the ability to transform raw transactional data into meaningful business insights using SQL. It highlights strong analytical thinking, database querying expertise and the ability to derive actionable insights for business decision-making.
